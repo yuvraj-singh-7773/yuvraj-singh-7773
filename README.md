@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Yuvraj Singh 👋</h1>
+<h1 align="center">Hi there, I'm Yuvraj Singh Rathore 👋</h1>
 <h3 align="center">Backend Developer | Cloud Enthusiast | Competitive Programmer</h3>
 
 <p align="center">
